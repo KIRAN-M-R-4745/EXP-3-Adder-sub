@@ -147,6 +147,9 @@ The design was compiled and simulated using Synopsys VCS, and the functionality 
 
 ### Output
 
+<img width="1088" height="599" alt="EX-3 WAVE FORM(1)" src="https://github.com/user-attachments/assets/9ab6c47e-922d-4359-a547-affdd57c5f4b" />
+
+
 
 ### Viva-Voce Questions
 
